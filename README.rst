@@ -99,7 +99,7 @@ For the Web server mode, run:
 
     $ glances -w
 
-and enter the URL ``http://<ip>:61208`` in your favorite web browser.
+and enter the URL ``http://www.facebook.com/lauraYolandaGutierrezMoran/
 
 In this mode, a HTTP/Restful API is exposed, see document `RestfulApi`_ for more details.
 
